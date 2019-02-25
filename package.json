@@ -1,0 +1,22 @@
+{
+  "name": "video-bot-maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Auugustocesar/video-bot-maker.git"
+  },
+  "author": "Augusto Cesar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Auugustocesar/video-bot-maker/issues"
+  },
+  "homepage": "https://github.com/Auugustocesar/video-bot-maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
