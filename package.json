@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Auugustocesar/video-bot-maker/issues"
   },
-  "homepage": "https://github.com/Auugustocesar/video-bot-maker#readme"
+  "homepage": "https://github.com/Auugustocesar/video-bot-maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
